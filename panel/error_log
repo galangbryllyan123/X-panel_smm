@@ -1,0 +1,7 @@
+[05-May-2016 14:40:22 Asia/Jakarta] PHP Warning:  require_once(koneksi.php): failed to open stream: No such file or directory in /home/gamingv/public_html/panel/tukarpoint().php on line 10
+[05-May-2016 14:40:22 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required 'koneksi.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gamingv/public_html/panel/tukarpoint().php on line 10
+[05-May-2016 03:03:46 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'volcompa_nel'@'localhost' (using password: YES) in /home/gamingv/public_html/panel/prosestambahkode.php on line 2
+[05-May-2016 03:03:46 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/gamingv/public_html/panel/prosestambahkode.php on line 3
+[05-May-2016 03:03:46 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/gamingv/public_html/panel/prosestambahkode.php on line 3
+[05-May-2016 03:03:46 America/Chicago] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/gamingv/public_html/panel/prosestambahkode.php on line 6
+[05-May-2016 03:03:46 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/gamingv/public_html/panel/prosestambahkode.php on line 6

@@ -1,0 +1,2 @@
+[07-May-2016 22:37:17 America/Chicago] PHP Warning:  require_once(koneksi.php): failed to open stream: No such file or directory in /home/gamingv/public_html/HomePage/loginact.php on line 4
+[07-May-2016 22:37:17 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'koneksi.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/gamingv/public_html/HomePage/loginact.php on line 4

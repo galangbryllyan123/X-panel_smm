@@ -1,0 +1,10 @@
+[10-May-2016 15:48:04 Asia/Tokyo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 13
+[10-May-2016 15:48:04 Asia/Tokyo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 14
+[10-May-2016 15:48:12 Asia/Tokyo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 13
+[10-May-2016 15:48:12 Asia/Tokyo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 14
+[10-May-2016 15:48:41 Asia/Tokyo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 13
+[10-May-2016 15:48:41 Asia/Tokyo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 14
+[10-May-2016 15:48:48 Asia/Tokyo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 13
+[10-May-2016 15:48:48 Asia/Tokyo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 14
+[10-May-2016 15:49:06 Asia/Tokyo] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 13
+[10-May-2016 15:49:06 Asia/Tokyo] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/panelxf/public_html/api/api.php on line 14
